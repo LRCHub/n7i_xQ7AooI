@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "FOOL",
+  "base_artist": "羊文学",
+  "createdAt": "2026-03-30T22:19:41.638314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What a Fool Believes (2016 Remastered)",
+      "artist": "The Doobie Brothers",
+      "has_synced": true,
+      "path": "select/01_What_a_Fool_Believes_(2016_Remastered)_The_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Famous Last Words Of A Fool",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Famous_Last_Words_Of_A_Fool_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Famous Last Words Of A Fool (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Famous_Last_Words_Of_A_Fool_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fool Hearted Memory",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_Fool_Hearted_Memory_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fool Hearted Memory",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_Fool_Hearted_Memory_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fool Hearted Memory (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/06_Fool_Hearted_Memory_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fool Hearted Memory - Edit",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/07_Fool_Hearted_Memory_-_Edit_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fool Hearted Memory (Remastered) - Live",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/08_Fool_Hearted_Memory_(Remastered)_-_Live_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fool Hearted Memory (Live)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/09_Fool_Hearted_Memory_(Live)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Fool At An Old Game",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/10_New_Fool_At_An_Old_Game_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody Falls Like a Fool",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/11_Nobody_Falls_Like_a_Fool_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only A Fool (feat. The Bluebonnets)",
+      "artist": "Ray Wylie Hubbard feat. The Bluebonnets",
+      "has_synced": true,
+      "path": "select/12_Only_A_Fool_(feat._The_Bluebonnets)_Ray_Wylie_Hubbard_feat._The_Bluebonnets.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "River Fool",
+      "artist": "Ian Noe",
+      "has_synced": true,
+      "path": "select/13_River_Fool_Ian_Noe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Statue Of A Fool",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/14_Statue_Of_A_Fool_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Statue Of A Fool (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/15_Statue_Of_A_Fool_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Statue Of A Fool",
+      "artist": "Jack Greene",
+      "has_synced": true,
+      "path": "select/16_Statue_Of_A_Fool_Jack_Greene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FOOL",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_FOOL_羊文学.txt"
+    }
+  ]
+}
